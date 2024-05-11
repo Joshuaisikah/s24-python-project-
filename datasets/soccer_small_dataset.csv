@@ -1,0 +1,112 @@
+player,position,team,age,club,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_pens,cards_yellow,cards_red
+Alexis Mac Allister,MF,Argentina,23-359,Brighton,1998,6,6,550,6.1,1,1,1,0,0
+Cristian Romero,DF,Argentina,24-235,Tottenham,1998,7,6,547,6.1,0,0,0,2,0
+Emiliano Martínez,GK,Argentina,30-107,Aston Villa,1992,7,7,690,7.7,0,0,0,1,0
+Enzo Fernández,MF,Argentina,21-335,Benfica,2001,7,5,564,6.3,1,1,1,1,0
+Exequiel Palacios,MF,Argentina,24-074,Leverkusen,1998,3,0,50,0.6,0,0,0,0,0
+Germán Pezzella,DF,Argentina,31-174,Betis,1991,3,0,60,0.7,0,0,0,1,0
+Gonzalo Montiel,DF,Argentina,25-351,Sevilla,1997,4,1,118,1.3,0,0,0,3,0
+Guido Rodríguez,MF,Argentina,28-250,Betis,1994,1,1,56,0.6,0,0,0,0,0
+Juan Foyth,DF,Argentina,24-340,Villarreal,1998,1,0,5,0.1,0,0,0,0,0
+Julián Álvarez,FW,Argentina,22-321,Manchester City,2000,7,5,464,5.2,4,0,4,0,0
+Lautaro Martínez,FW,Argentina,25-118,Inter,1997,6,2,241,2.7,0,0,0,0,0
+Leandro Paredes,MF,Argentina,28-172,Juventus,1994,5,2,225,2.5,0,0,0,2,0
+Lionel Messi,FW,Argentina,35-177,Paris S-G,1987,7,7,690,7.7,7,3,3,1,0
+Lisandro Martínez,DF,Argentina,24-334,Manchester Utd,1998,5,2,303,3.4,0,0,0,1,0
+Marcos Acuña,DF,Argentina,31-051,Sevilla,1991,6,4,373,4.1,0,0,0,3,0
+Nahuel Molina,DF,Argentina,24-256,Atlético Madrid,1998,7,6,567,6.3,1,1,1,0,0
+Nicolás Otamendi,DF,Argentina,34-309,Benfica,1988,7,7,690,7.7,0,1,0,2,0
+Nicolás Tagliafico,DF,Argentina,30-109,Lyon,1992,6,3,373,4.1,0,0,0,0,0
+Papu Gómez,MF,Argentina,34-306,Sevilla,1988,2,2,107,1.2,0,0,0,0,0
+Paulo Dybala,FW,Argentina,29-033,Roma,1993,2,0,18,0.2,0,0,0,0,0
+Rodrigo De Paul,MF,Argentina,28-208,Atlético Madrid,1994,7,7,599,6.7,0,0,0,0,0
+Thiago Almada,MF,Argentina,21-236,Atlanta Utd,2001,1,0,7,0.1,0,0,0,0,0
+Ángel Correa,MF,Argentina,27-284,Atlético Madrid,1995,1,0,5,0.1,0,0,0,0,0
+Ángel Di María,MF,Argentina,34-307,Juventus,1988,5,4,288,3.2,1,1,1,0,0
+Aaron Mooy,MF,Australia,32-094,Celtic,1990,4,4,360,4,0,0,0,1,0
+Ajdin Hrustic,MF,Australia,26-166,Hellas Verona,1996,3,0,62,0.7,0,0,0,0,0
+Awer Mabil,MF,Australia,27-094,Cádiz,1995,2,0,24,0.3,0,0,0,0,0
+Aziz Behich,DF,Australia,32-002,Dundee United,1990,4,4,360,4,0,0,0,1,0
+Bailey Wright,DF,Australia,30-143,Sunderland,1992,1,0,17,0.2,0,0,0,0,0
+Craig Goodwin,MF,Australia,31-002,Adelaide,1991,4,3,234,2.6,1,1,1,0,0
+Fran Karačić,DF,Australia,26-220,Brescia,1996,2,1,93,1,0,0,0,0,0
+Garang Kuol,FW,Australia,18-094,Central Coast,2004,2,0,37,0.4,0,0,0,0,0
+Harry Souttar,DF,Australia,24-057,Stoke City,1998,4,4,360,4,0,0,0,0,0
+Jackson Irvine,MF,Australia,29-286,St. Pauli,1993,4,4,354,3.9,0,0,0,2,0
+Jamie Maclaren,FW,Australia,29-142,Melb City,1993,3,0,55,0.6,0,0,0,0,0
+Jason Cummings,FW,Australia,27-139,Central Coast,1995,1,0,35,0.4,0,0,0,0,0
+Keanu Baccus,MF,Australia,24-194,St Mirren,1998,4,1,114,1.3,0,0,0,0,0
+Kye Rowles,DF,Australia,24-177,Hearts,1998,4,4,360,4,0,0,0,0,0
+Mathew Leckie,MF,Australia,31-317,Melb City,1991,4,4,333,3.7,1,1,1,0,0
+Mathew Ryan,GK,Australia,30-254,FC Copenhagen,1992,4,4,360,4,0,0,0,0,0
+Miloš Degenek,DF,Australia,28-234,Columbus Crew,1994,4,2,183,2,0,0,0,2,0
+Mitchell Duke,FW,Australia,31-334,Fagi Okayama,1991,4,4,270,3,1,0,1,1,0
+Nathaniel Atkinson,DF,Australia,23-188,Hearts,1999,1,1,84,0.9,0,0,0,0,0
+Riley McGree,FW,Australia,24-046,Middlesbrough,1998,4,4,265,2.9,0,1,0,0,0
+Adrien Rabiot,MF,France,27-259,Juventus,1995,6,5,483,5.4,1,1,1,1,0
+Antoine Griezmann,MF,France,31-272,Atlético Madrid,1991,7,6,537,6,0,3,0,1,0
+Aurélien Tchouaméni,MF,France,22-325,Real Madrid,2000,7,7,621,6.9,1,0,1,1,0
+Axel Disasi,DF,France,24-282,Monaco,1998,3,1,92,1,0,0,0,0,0
+Benjamin Pavard,DF,France,26-265,Bayern Munich,1996,1,1,88,1,0,0,0,0,0
+Dayot Upamecano,DF,France,24-052,Bayern Munich,1998,5,5,480,5.3,0,0,0,0,0
+Eduardo Camavinga,DF,France,20-038,Real Madrid,2002,2,1,140,1.6,0,0,0,0,0
+Hugo Lloris,GK,France,35-357,Tottenham,1986,6,6,570,6.3,0,0,0,0,0
+Ibrahima Konaté,DF,France,23-207,Liverpool,1999,5,3,294,3.3,0,0,0,0,0
+Jordan Veretout,MF,France,29-292,Marseille,1993,1,1,62,0.7,0,0,0,0,0
+Jules Koundé,DF,France,24-036,Barcelona,1998,6,5,480,5.3,0,0,0,1,0
+Kingsley Coman,FW,France,26-188,Bayern Munich,1996,6,1,169,1.9,0,0,0,0,0
+Kylian Mbappé,FW,France,23-363,Paris S-G,1998,7,6,598,6.6,8,2,6,0,0
+Lucas Hernández,DF,France,26-307,Bayern Munich,1996,1,1,12,0.1,0,0,0,0,0
+Marcus Thuram,FW,France,25-134,M'Gladbach,1997,5,0,151,1.7,0,2,0,1,0
+Mattéo Guendouzi,FW,France,23-248,Marseille,1999,1,1,78,0.9,0,0,0,0,0
+Olivier Giroud,FW,France,36-079,Milan,1986,6,6,419,4.7,4,0,4,1,0
+Ousmane Dembélé,FW,France,25-217,Barcelona,1997,7,6,433,4.8,0,2,0,1,0
+Randal Kolo Muani,FW,France,24-013,Eint Frankfurt,1998,3,1,182,2,1,0,1,0,0
+Raphaël Varane,DF,France,29-237,Manchester Utd,1993,6,6,518,5.8,0,0,0,0,0
+Steve Mandanda,GK,France,37-265,Rennes,1985,1,1,90,1,0,0,0,0,0
+Theo Hernández,DF,France,25-073,Milan,1997,6,5,508,5.6,1,2,1,1,0
+William Saliba,DF,France,21-269,Arsenal,2001,1,0,28,0.3,0,0,0,0,0
+Youssouf Fofana,MF,France,23-342,Monaco,1999,6,2,227,2.5,0,0,0,0,0
+Ao Tanaka,MF,Japan,24-099,Düsseldorf,1998,3,2,171,1.9,1,0,1,0,0
+Ayase Ueda,FW,Japan,24-099,Cercle Brugge,1998,1,1,45,0.5,0,0,0,0,0
+Daichi Kamada,FW,Japan,26-135,Eint Frankfurt,1996,4,4,322,3.6,0,0,0,0,0
+Daizen Maeda,FW,Japan,25-059,Celtic,1997,3,3,180,2,1,0,1,0,0
+Hidemasa Morita,MF,Japan,27-222,Sporting CP,1995,3,3,285,3.2,0,0,0,0,0
+Hiroki Ito,DF,Japan,23-220,Stuttgart,1999,1,0,45,0.5,0,0,0,0,0
+Hiroki Sakai,MF,Japan,32-250,Urawa Reds,1990,2,1,119,1.3,0,0,0,0,0
+Junya Ito,MF,Japan,29-284,Reims,1993,4,3,324,3.6,0,1,0,0,0
+Kaoru Mitoma,MF,Japan,25-212,Brighton,1997,4,0,165,1.8,0,1,0,0,0
+Ko Itakura,DF,Japan,25-325,M'Gladbach,1997,3,3,270,3,0,1,0,2,0
+Maya Yoshida,DF,Japan,34-116,Schalke 04,1988,4,4,390,4.3,0,1,0,1,0
+Miki Yamane,DF,Japan,28-361,Kawa Frontale,1993,1,1,61,0.7,0,0,0,1,0
+Ritsu Doan,FW,Japan,24-185,Freiburg,1998,4,2,217,2.4,2,0,2,0,0
+Shogo Taniguchi,DF,Japan,31-156,Kawa Frontale,1991,2,2,210,2.3,0,0,0,1,0
+Shūichi Gonda,GK,Japan,33-290,S-Pulse,1989,4,4,390,4.3,0,0,0,0,0
+Takefusa Kubo,FW,Japan,21-197,Real Sociedad,2001,2,2,90,1,0,0,0,0,0
+Takehiro Tomiyasu,DF,Japan,24-043,Arsenal,1998,3,1,187,2.1,0,0,0,0,0
+Takuma Asano,FW,Japan,28-038,Bochum,1994,4,0,165,1.8,1,0,1,0,0
+Takumi Minamino,FW,Japan,27-336,Monaco,1995,3,0,60,0.7,0,0,0,0,0
+Wataru Endo,MF,Japan,29-312,Stuttgart,1993,4,3,304,3.4,0,0,0,1,0
+Yuki Soma,FW,Japan,25-296,Grampus,1997,1,1,81,0.9,0,0,0,0,0
+Yuto Nagatomo,MF,Japan,36-097,FC Tokyo,1986,4,4,209,2.3,0,0,0,0,0
+Aimen Dahmen,GK,Tunisia,25-324,CS Sfaxien,1997,3,3,270,3,0,0,0,0,0
+Ali Abdi,DF,Tunisia,28-363,Caen,1993,3,2,188,2.1,0,0,0,1,0
+Ali Maâloul,DF,Tunisia,32-351,Al Ahly SC,1990,1,1,90,1,0,0,0,0,0
+Anis Ben Slimane,MF,Tunisia,21-277,Brøndby,2001,2,2,148,1.6,0,0,0,0,0
+Aïssa Laïdouni,MF,Tunisia,26-005,Ferencváros,1996,3,3,243,2.7,0,1,0,1,0
+Dylan Bronn,DF,Tunisia,27-182,Salernitana,1995,2,2,162,1.8,0,0,0,0,0
+Ellyes Skhiri,MF,Tunisia,27-222,Köln,1995,3,3,270,3,0,0,0,0,0
+Ferjani Sassi,MF,Tunisia,30-275,Al Duhail SC,1992,2,0,48,0.5,0,0,0,1,0
+Ghaylène Chaalali,MF,Tunisia,28-293,Espérance de Tunis,1994,1,0,17,0.2,0,0,0,0,0
+Hannibal Mejbri,MF,Tunisia,19-331,Birmingham City,2003,1,0,11,0.1,0,0,0,0,0
+Issam Jebali,FW,Tunisia,30-358,Odense,1991,3,2,182,2,0,0,0,0,0
+Mohamed Ali Ben Romdhane,MF,Tunisia,23-103,Espérance de Tunis,1999,1,1,73,0.8,0,0,0,0,0
+Mohamed Dräger,DF,Tunisia,26-176,Luzern,1996,2,2,132,1.5,0,0,0,0,0
+Montassar Talbi,DF,Tunisia,24-206,Lorient,1998,3,3,270,3,0,0,0,0,0
+Nader Ghandri,DF,Tunisia,27-303,Club Africain,1995,1,1,90,1,0,0,0,0,0
+Naïm Sliti,MF,Tunisia,30-144,Al-Ettifaq,1992,2,1,114,1.3,0,0,0,0,0
+Taha Yassine Khenissi,FW,Tunisia,30-346,Kuwait SC,1992,2,0,29,0.3,0,0,0,1,0
+Wahbi Khazri,FW,Tunisia,31-313,Montpellier,1991,2,1,83,0.9,1,0,1,0,0
+Wajdi Kechrida,DF,Tunisia,27-043,Atromitos,1995,3,1,111,1.2,0,0,0,1,0
+Yassine Meriah,DF,Tunisia,29-169,Espérance de Tunis,1993,3,3,270,3,0,0,0,0,0
+Youssef Msakni,MF,Tunisia,32-051,Al-Arabi SC,1990,2,2,169,1.9,0,0,0,0,0
